@@ -1,0 +1,81 @@
+@media (max-width: 991px) 
+{
+    .header__logo {
+        padding-left: 10px;
+        img {
+            width: 200px;
+        }
+    }
+
+    .header__contacts {
+        padding-right: 30px;
+    }
+
+    .header__official {
+        padding-right: 13px;
+    }
+
+    .header__phone {
+        font-size: 12px;
+    }
+
+    .button {
+        width: 125px;
+    }
+    
+    .promo__header {
+        font-size: 30px ;
+        padding-right: 10px;
+    }
+
+    .promo__subheader {
+        font-size: 20px;
+        padding-right: 10px;
+    }
+
+    .promo__icons {
+        width: 400px;
+        margin-top: 55px;
+    }
+
+    .promo__icon {
+        width: 90px;
+    }
+
+    .promo__link {
+        font-size: 15px;
+        padding-right: 10px;
+    }
+
+    .button_main {
+        width: 250px;
+        height: 35px;
+    }
+
+    .benefits__title {
+        font-size: 27px;
+        margin-top: 50px;
+    }
+
+    .benefits__wraper {
+        margin-top: 55px;
+    }
+
+    .title_left {
+        text-align: center;
+        font-size: 27px;
+    }
+
+    .consultation__descr {
+        text-align: center;
+    }
+
+    .feed-form {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .button_submit {
+        width: 300px;
+    }
+}
